@@ -1,1 +1,2 @@
-Our code will be coming soon.
+The code has been made public.
+The communication email is xcwang@glut.edu.cn
